@@ -15,14 +15,11 @@
  <img alt="Redux-Hooks" src="https://img.shields.io/badge/-React_Hooks-430098?style=for-the-badge&logo=Redux&logoColor=white" />
  <img alt="Redux" src="https://img.shields.io/badge/-Redux-430098?style=for-the-badge&logo=redux&logoColor=white" />
  <img alt="Redux-Devtools" src="https://img.shields.io/badge/redux devtools-430098?style=for-the-badge&logo=redux">
- <img alt="React-Router" src="https://img.shields.io/badge/-React_Router-black?style=for-the-badge&logo=react-router&logoColor=orange" />
  <img alt="Mongoose" src="https://img.shields.io/badge/mongoose-green?style=for-the-badge&logo=mongoose">
  <img alt="HTML 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
  <img alt="CSS 3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
  <img alt="CSS 3" src="https://img.shields.io/badge/-jsonwebtoken-red?style=for-the-badge">
  <img alt="CSS 3" src="https://img.shields.io/badge/-Webpack-blue?style=for-the-badge">
- <img alt="CSS 3" src="https://img.shields.io/badge/-http--status-purple?style=for-the-badge">
- <img alt="CSS 3" src="https://img.shields.io/badge/-cors-pink?style=for-the-badge">
  <img alt="CSS 3" src="https://img.shields.io/badge/-Materilal--UI-blue?style=for-the-badge">
 </div>
 
